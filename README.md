@@ -26,9 +26,9 @@ PRIVATE_KEY=4bd1283169c03c542276521992b85c5e17cab72e6ee702e1dbfc687f16327d33
 
 **IMPORTANT:** This is not a real private key. Never reveal your private key to anyone. Compromising your private key compromises all control and funds in the respective wallet. DO NOT CHECK THIS FILE IN ANYWHERE. The `.gitignore` of this repo has `.env` included. It is not recommended to change this.
 
-4. Edit the `brewBoo.py` script's token pairs to choose which pairs to convert. BrewBoo v2's value can be tracked with https://zapper.fi/account/0x3B3fdC40582a957206Aed119842F2313DE9eE21bfantom
+4. Edit the `brewBoo.py` script's token pairs to choose which pairs to convert. BrewBoo v3's value can be tracked with https://debank.com/profile/0x3b3fdc40582a957206aed119842f2313de9ee21b
 
-Note: Zapper does not always include newly minted tokens. The analytics page can help find these pairs.
+Note: DeBank does not always include newly minted tokens. The analytics page can help find these pairs.
 
 5. Call the script and follow the prompts.
 Sample call:
