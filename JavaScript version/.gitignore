@@ -1,0 +1,4 @@
+.env
+pnpm-lock.yaml
+.pnpm-debug.log
+/node_modules/

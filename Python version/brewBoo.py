@@ -9,14 +9,8 @@ token1 = []
 FTM_PAIRS = [
   # ADD OR REMOVE TOKENS HERE.
   tokens.USDC,
-  tokens.TOMB,
-  tokens.TSHARE,
   tokens.fUSDT,
   tokens.DAI,
-  tokens._3SHARES,
-  tokens._2OMB,
-  tokens.IB,
-  tokens.SPELL,
   tokens.TREEB,
   tokens.MULTI,
   tokens.ANY,

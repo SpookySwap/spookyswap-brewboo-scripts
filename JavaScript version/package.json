@@ -1,0 +1,15 @@
+{
+  "name": "bbbot",
+  "version": "1.0.0",
+  "description": "The BrewBoo v3 contract (https://ftmscan.com/address/0x68f598280a843A5Ce07C1b9fB0D3aF00Cd085c31) collects protocol fees from SpookySwap. It permissionlessly allows any party to call the contract  convert the collected protocol fees to BOO, which is then sent to xBOO. Callers will receive a 0.1% bounty for calling the contract.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mentasuave01",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "web3": "^1.7.0"
+  }
+}
